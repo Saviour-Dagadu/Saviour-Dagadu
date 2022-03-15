@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Saviour-Dagadu
-- 👀 I’m interested in static web development and desktop applications
+- 👀 I’m interested in web development and desktop applications
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on web development and frontend projects
 - 📫 How to reach me - whatsapp: +233248929076 or email: savicane@gmail.com
