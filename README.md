@@ -4,7 +4,7 @@ Introduction :
 - 👋 Hi, I’m @Saviour-Dagadu
 - 👀 I’m interested in web development, desktop applications and mobile apps
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on web development and frontend projects
+- 💞️ I’m looking to collaborate on web develop and full stack (frontend and backend) projects
 
 **Link to project:** https://saviourdagadu.netlify.app/
 
