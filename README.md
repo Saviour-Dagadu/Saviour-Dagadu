@@ -6,7 +6,7 @@ Introduction :
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on web development and frontend projects
 
-**Link to project:** https://saviourdagadu.netlify.app/
+**Link to project:** https://savicode-dicegame.netlify.app
 
 ![alt tag](https://i.postimg.cc/DzfmVC9G/Screenshot-77.png)
 
