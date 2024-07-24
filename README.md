@@ -14,7 +14,7 @@ I also love to experiment with CSS and make cool stuff.
 
 **Link to project:** https://saviourdagadu.netlify.app/
 
-![alt tag] <img src="https://awesome-svg.vercel.app/card/card_2?name=Saviour%20Dagadu&summary=Software%20Developer&style=nameColor:rgba(244,34,150,1);summaryColor:rgba(232,49,150,1);backgroundColor:rgba(255,255,255,1);" />
+<img src="https://awesome-svg.vercel.app/card/card_2?name=Saviour%20Dagadu&summary=Software%20Developer&style=nameColor:rgba(244,34,150,1);summaryColor:rgba(232,49,150,1);backgroundColor:rgba(255,255,255,1);" />
 
 ## How It's Made:
 
